@@ -1,5 +1,5 @@
 <div align = "center">
-  <a href = "https://github.com/Danoni631/GlowStone-Browser">
+  <a href = "https://github.com/GlowStone-project/.github">
     <img src = "logo.png" alt = "Logo" width = "220" height = "210">
   </a>
 </div>
