@@ -1,5 +1,5 @@
 <div align = "center">
-  <a href = "https://github.com/GlowStone-project/.github">
+  <a href = "https://github.com/Danoni631/GlowStone-Browser">
     <img src = "logo.png" alt = "Logo" width = "220" height = "210">
   </a>
 </div>
@@ -15,6 +15,4 @@ You need install WebView2 to run and edit this browser
 ### Overview
 <p align="center"><img src="scrshot.png"></p>
 <p align="center"><img src="scrshot2.png"></p>
-
-If you want to see original browser repository
-https://github.com/Danoni631/GlowStone-Browser
+<p align="center"><img src="scrshot3.png"></p>
